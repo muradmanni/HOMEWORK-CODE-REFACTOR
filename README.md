@@ -9,7 +9,7 @@ There were semantic tags missing in HTML, also the css file was bloated.
 
 The html code for the webpage is refactored and semantic tags are added in order to acheive accessibility. CSS elements are combined in order to avoid repeatation.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [URL (deployed application)](#url)
 - [URL (github repository)](#urlrepo)
@@ -34,14 +34,8 @@ https://github.com/muradmanni/HOMEWORK-CODE-REFACTOR
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I would like to thank all my fellow classmates who helped me in understanding the assignment and requirements. Special thanks to Leo Wong, who shared the template of README.md.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
+No license required.
